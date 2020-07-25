@@ -1,5 +1,8 @@
-# ACSE3-2019-Coursework
-Coursework for ACSE3
+# Numerical Methods
 
+4 Task completed are: 
 
-Deadline:  5pm  5th January 2020
+* Implement RK2 family
+* Implementing backward Euler using a nonlinear system solver
+* Steady-state advection-diffusion with the FEM
+* Time-dependent advection-diffusion with the FEM
